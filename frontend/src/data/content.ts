@@ -20,9 +20,9 @@ export const NAV_LINKS = [
 ];
 
 export const SOCIALS = [
-  { label: 'GitHub', href: 'https://github.com', icon: 'Github' },
-  { label: 'LinkedIn', href: 'https://linkedin.com', icon: 'Linkedin' },
-  { label: 'Instagram', href: 'https://instagram.com', icon: 'Instagram' },
+  { label: 'GitHub', href: 'https://github.com/Nickrockerzgit', icon: 'Github' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/rishabh-jhade-', icon: 'Linkedin' },
+  { label: 'Instagram', href: 'https://www.instagram.com/its._nikku_001?igsh=MWYzN3VsOGxpOWd2cQ==', icon: 'Instagram' },
   { label: 'Twitter', href: 'https://twitter.com', icon: 'Twitter' },
 ];
 
