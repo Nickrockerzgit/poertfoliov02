@@ -154,7 +154,7 @@ export default function Hero() {
             {/* center portrait */}
             <div className="absolute inset-0 m-auto h-44 w-44 rounded-full overflow-hidden ring-4 ring-brand-400/30 shadow-2xl shadow-brand-500/30">
               <img
-                src="https://images.pexels.com/photos/3781338/pexels-photo-3781338.jpeg?auto=compress&cs=tinysrgb&w=600"
+                src="/rlogo.png"
                 alt="Rishabh Jhade"
                 className="h-full w-full object-cover"
               />
